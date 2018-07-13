@@ -1,8 +1,8 @@
 # Solar system simulator
 
-Aplicación ejercicio, java que pronostica climas en una galaxia lejana.
+Aplicación-ejercicio  java que pronostica climas en una galaxia lejana.
 
-## Asumpciones adptada para desarrollar la simulación
+## Asumpciones adoptada para desarrollar la simulación
 * Las órbitas de los 3 planetas son coplanares, o sea pertenecen a un mismo plano.
 * La posición inicial en el día 0 de los 3 planetas está alineada con respecto al su sol, formando una recta horizontal, a la derecha del mismo (en el eje positivo x). Las predicciones de los próximos 10 años se calculan en base a esto.
 * Se toma como 1 año al tiempo equivalente transcurrido en 365 días. Por ende 10 años serán 3650 días. Se utilziará una granularidad configurable para poder realizar varias simulaciones para un mismo día.
